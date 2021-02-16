@@ -1,1 +1,14 @@
 node_modules
+backup/package-lock.json
+backup/gulpfile.js
+backup/.travis.yml
+backup/.browserslistrc
+backup/index.html.backup 06022021
+backup/package.json
+backup/scss/_bootstrap-overrides.scss
+backup/scss/_global.scss
+backup/scss/_mixins.scss
+backup/scss/_nav.scss
+backup/scss/_resume-item.scss
+backup/scss/_variables.scss
+backup/scss/resume.scss
